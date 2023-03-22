@@ -34,7 +34,7 @@
 "related_applications": [
     {
         "platform":"windows",
-        "url": " The URL to your app in that app store"
+        "url": "https://localizavegrec.netlify.app/"
     }
 ],
 "prefer_related_applications": false,
